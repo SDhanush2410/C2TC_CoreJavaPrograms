@@ -1,6 +1,6 @@
 package com.tnsif.oopsconcept;
 
-public class Executor {
+public class ExecutorSample {
 
 	public static void main(String[] args) {
 		
@@ -11,7 +11,7 @@ public class Executor {
 		
 		System.out.println(ED);
 		
-		Executor e = new Executor();
+		ExecutorSample e = new ExecutorSample();
 		System.out.println(e);
 
 	}
