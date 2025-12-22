@@ -1,6 +1,6 @@
 package com.tnsif.interfaces;
 
-public class GreetingExexcutorSample {
+public class GreetingExecutorSample {
 	
 	public static void main(String[] args) {
 		
