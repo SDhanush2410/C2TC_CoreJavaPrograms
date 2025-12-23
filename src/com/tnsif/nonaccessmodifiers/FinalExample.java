@@ -2,7 +2,6 @@ package com.tnsif.nonaccessmodifiers;
 
 public class FinalExample {
 	
-	
 	int x = 100;
 	
 	void print() {
@@ -18,7 +17,6 @@ public class FinalExample {
 		
 		fe.print();
 		
-
 	}
 
 }
