@@ -1,4 +1,3 @@
-//Program to define implementable class of Runnable interface
 package com.tnsif.multithreading.runnableinterface;
 
 public class UsingRunnable implements Runnable {

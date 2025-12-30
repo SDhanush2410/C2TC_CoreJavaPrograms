@@ -1,4 +1,3 @@
-//executor class
 package com.tnsif.multithreading.runnableinterface;
 
 public class RunnableDemo {
